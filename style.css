@@ -27,12 +27,10 @@ body {
 .column2 {
 	width: 48%;
 	float: right;
-
 }
 
-
 img {
-	max-width: 100%;
+	width: 100%;
 }
 
 .item {
@@ -49,4 +47,5 @@ button {
 	padding: 15px 32px;
     text-align: center;
     border-radius: 6px;
+    display: block;
 }
